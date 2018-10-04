@@ -72,7 +72,7 @@ class BooksApp extends React.Component {
           }} books={ this.state.searchBooks } onBookSearch={ this.onBookSearch }/>
         )}/>
       </div>
-    )
+    );
   }
 }
 
