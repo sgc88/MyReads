@@ -1,6 +1,11 @@
 # MyReads Project
 [Udacity's](https://www.udacity.com/) Nanodegree *MyReads* Project. This app can help you keep organized with your book reading.
 
+[https://myreads2018.herokuapp.com](https://myreads2018.herokuapp.com)
+
+![alt tag](images/img1.png)
+![alt tag](images/img2.png)
+
 ## Getting Started
 - *Download* or *Clone* this repo to your local machine.
 - ```cd``` into the project.
@@ -27,6 +32,8 @@
 -	[react.js](https://reactjs.org/)
 -	[react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
 -	[create-react-app](https://github.com/facebook/create-react-app)
+-	[create-react-app-buildpack](https://github.com/mars/create-react-app-buildpack#usage)
+-	[heroku](https://heroku.com)
 
 ## Search Terms
  The provided backend API uses a fixed set of cached search results and is limited to a particular set of search terms, which can be found in [SEARCH_TERMS.md](https://github.com/kepelrs/MyReads/blob/master/SEARCH_TERMS.md). That list of terms are the _only_ terms that will work with the backend, so don't be surprised if your searches for Basket Weaving or Bubble Wrap don't come back with any results.
